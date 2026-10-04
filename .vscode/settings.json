@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.detector-venv",
+  "files.exclude": {"**/__pycache__": true},
+  "search.exclude": {"**/.detector-venv": true, "**/.venv": true, "data": true, "outputs": true, "work": true}
+}
